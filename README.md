@@ -40,7 +40,7 @@ This project is a **Flask-based API** for searching movies using the **TMDb API*
    ```
 
 3. Set up your TMDb API key:
-   - Replace `'77682c0ab6a19877ca4446c021d638f0'` in the `tmdb.api_key` line with your own TMDb API key.
+   - Replace `'api_key'` in the `tmdb.api_key` line with your own TMDb API key.
 
 ---
 
