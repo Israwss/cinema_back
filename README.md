@@ -30,8 +30,8 @@ This project is a **Flask-based API** for searching movies using the **TMDb API*
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/movie-search-api.git
-   cd movie-search-api
+   git clone https://github.com/israwss/cinema_back.git
+   cd cinema_back
    ```
 
 2. Install dependencies:
