@@ -7,7 +7,7 @@ CORS(app)  # Habilita CORS para permitir solicitudes desde el frontend
 
 # Configura tu clave de API de TMDB
 tmdb = TMDb()
-tmdb.api_key = '77682c0ab6a19877ca4446c021d638f0'
+tmdb.api_key = 'key_api'
 tmdb.language = 'en'  # Configura el idioma
 
 movie = Movie()
