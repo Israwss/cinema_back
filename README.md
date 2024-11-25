@@ -1,4 +1,8 @@
-
+### Integrantes
+- Alanis Gonzalez Sebastian
+- Raya Ríos Vania Janet
+- Martínez Jiménez Israel
+- Fonseca González Bruno
 # Movie Search API
 
 This project is a **Flask-based API** for searching movies using the **TMDb API**. It supports searching for movies by title and returns detailed information such as release date, overview, ratings, genres, and poster/backdrop images. The API includes support for **CORS** to integrate seamlessly with front-end applications.
